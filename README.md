@@ -45,7 +45,7 @@ The polyfill doesn’t like fixed/absolutely positioned grid items. If you want 
 
 Like IE and Chrome, the polyfill does not support the “subgrid” feature, and (similarly) doesn’t like when a grid-item is a grid itself. I hope to solve this someday using a CSS Layout Polyfill Infrastructure but this will require some background work I don’t expect to have time to do in the immediate future.
 
-Also, I’m you’ll find other bugs I didn’t mention. Please bear with me ^_^
+Also, if you’ll find other bugs I didn’t mention. Please bear with me ^_^
 
 
 
